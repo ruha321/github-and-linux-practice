@@ -17,4 +17,9 @@
             "path": ".",
         },
     ],
+    "extensions": {
+        "recommendations": [
+            "8amjp.charactercount"
+        ]
+    },
 }
