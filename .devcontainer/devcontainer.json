@@ -12,7 +12,12 @@
                 "marp-team.marp-vscode",
                 "yzane.markdown-pdf",
                 "AlanWalk.markdown-navigation",
-                "github.vscode-github-actions"
+                "github.vscode-github-actions",
+                "ms-azuretools.vscode-containers",
+                "EditorConfig.EditorConfig",
+                "redhat.vscode-yaml",
+                "esbenp.prettier-vscode",
+                "fill-labs.dependi"
             ]
         }
     },
