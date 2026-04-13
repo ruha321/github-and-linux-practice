@@ -13,13 +13,15 @@
             "path": "vim",
         },
         {
+            "name": "Docker",
+            "path": "Docker",
+        },
+        {
             "name": "Root",
             "path": ".",
         },
     ],
     "extensions": {
-        "recommendations": [
-            "8amjp.charactercount"
-        ]
+        "recommendations": ["8amjp.charactercount"],
     },
 }

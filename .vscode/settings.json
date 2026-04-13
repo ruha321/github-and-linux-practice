@@ -7,6 +7,7 @@
         "**/Thumbs.db": true,
         "vim/": true,
         ".github": true,
-        "linux_command": true
+        "linux_command": true,
+        "Docker": true
     }
 }
